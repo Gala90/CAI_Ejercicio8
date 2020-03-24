@@ -1,0 +1,7 @@
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio7\CAI_Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio7\CAI_Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio7\CAI_Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio7\CAI_Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csprojAssemblyReference.cache
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio7\CAI_Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio7\CAI_Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\Graciela\Documents\GitHub\CAI_Ejercicio7\CAI_Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb
